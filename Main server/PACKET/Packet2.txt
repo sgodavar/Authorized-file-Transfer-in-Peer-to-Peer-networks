@@ -1,0 +1,6 @@
+re free to concentrate on the business methods in the enterprise beans. 
+The container provides the following services to enterprise beans
+Java
+The flexibility of the EJB architecture allows you to build applications 
+Java
+in a variety of ways. The following illustration shows how you

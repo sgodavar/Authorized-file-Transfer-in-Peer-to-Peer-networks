@@ -1,0 +1,4 @@
+odules:java
+ enterprise beans and Web components. 
+These modules are reusable-- you can build new applications 
+from existing enterprise beans and components. And because the modules are portable, the application they comprise will run on any J2EE server that conforms to the specifications.

@@ -1,0 +1,4 @@
+ervlet to call the appropriate business methods in the session bean. The session bean is the client of the order, product, and customer entity beans. Because entity beans are persistent, their state is stored in the database.
+Java
+Java
+You assemble a J2EE application from two kinds of m

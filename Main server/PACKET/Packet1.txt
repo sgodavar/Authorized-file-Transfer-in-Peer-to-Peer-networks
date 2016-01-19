@@ -1,0 +1,5 @@
+The J2EE server of the Java
+Oracle is one of the data base system
+
+Enterprise bean instances run within an EJB container. 
+The container controls the enterprise beans, and provides them with important system-level services. Since you don't have to develop these services yourself, you a

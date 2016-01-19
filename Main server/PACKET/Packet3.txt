@@ -1,0 +1,3 @@
+ might create
+an online shopping application with both session and entity beans.
+A shopping cart applet in a Web browser accesses a servlet in a Web server. The servlet is the client of a shopping session bean. When the applet needs to find a product or enter an order, it instructs the s

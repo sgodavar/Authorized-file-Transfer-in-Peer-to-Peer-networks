@@ -1,0 +1,17 @@
+The J2EE server of the Java
+
+Enterprise bean instances run within an EJB container. 
+The container controls the enterprise beans, and provides them with important system-level services. Since you don't have to develop these services yourself, you are free to concentrate on the business methods in the enterprise beans. 
+The container provides the following services to enterprise beans
+Java
+The flexibility of the EJB architecture allows you to build applications 
+Java
+in a variety of ways. The following illustration shows how you might create
+an online shopping application with both session and entity beans.
+A shopping cart applet in a Web browser accesses a servlet in a Web server. The servlet is the client of a shopping session bean. When the applet needs to find a product or enter an order, it instructs the servlet to call the appropriate business methods in the session bean. The session bean is the client of the order, product, and customer entity beans. Because entity beans are persistent, their state is stored in the database.
+Java
+Java
+You assemble a J2EE application from two kinds of modules:java
+ enterprise beans and Web components. 
+These modules are reusable-- you can build new applications 
+from existing enterprise beans and components. And because the modules are portable, the application they comprise will run on any J2EE server that conforms to the specifications.
